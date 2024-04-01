@@ -1,0 +1,273 @@
+[
+    {
+      "id": 1,
+      "category": "Income eligibility",
+      "topic": "personal expertise",
+      "date": "2023-01-10 09:00:00",
+      "status": "승인대기mmm",
+      "reason": "Documents cannot be identified. Professional investors cannot be approved as the account was opened at a financial investment company less than 1 year ago.",
+      "manager": "Manager Kim"
+    },
+    {
+      "id": 2,
+      "category": "Expense validation",
+      "topic": "budgeting",
+      "date": "2023-02-15 11:30:00",
+      "status": "Approval pending",
+      "reason": "Pending review of expense reports for approval.",
+      "manager": "Manager Lee"
+    },
+    {
+      "id": 3,
+      "category": "Income verification",
+      "topic": "salary documentation",
+      "date": "2023-03-20 14:45:00",
+      "status": "Approved",
+      "reason": "Salary documents verified successfully.",
+      "manager": "Manager Smith"
+    },
+    {
+      "id": 4,
+      "category": "Expense validation",
+      "topic": "travel expenses",
+      "date": "2023-04-05 10:15:00",
+      "status": "Approval denied",
+      "reason": "Exceeded the company's travel expense limit.",
+      "manager": "Manager Brown"
+    },
+    {
+      "id": 5,
+      "category": "Income eligibility",
+      "topic": "investment income",
+      "date": "2023-05-12 08:20:00",
+      "status": "Approval pending",
+      "reason": "Additional documentation required for verification.",
+      "manager": "Manager Wilson"
+    },
+    {
+      "id": 6,
+      "category": "Expense validation",
+      "topic": "equipment purchase",
+      "date": "2023-06-25 15:00:00",
+      "status": "Approved",
+      "reason": "Purchase request approved as per budget allocation.",
+      "manager": "Manager Taylor"
+    },
+    {
+      "id": 7,
+      "category": "Income eligibility",
+      "topic": "investment portfolio",
+      "date": "2023-07-03 09:45:00",
+      "status": "Approval denied",
+      "reason": "Insufficient evidence of investment portfolio.",
+      "manager": "Manager Martinez"
+    },
+    {
+      "id": 8,
+      "category": "Expense validation",
+      "topic": "office supplies",
+      "date": "2023-08-18 12:30:00",
+      "status": "Approval pending",
+      "reason": "Pending review of supplier quotations.",
+      "manager": "Manager Garcia"
+    },
+    {
+      "id": 9,
+      "category": "Income verification",
+      "topic": "rental income",
+      "date": "2023-09-29 11:00:00",
+      "status": "Approved",
+      "reason": "Rental agreement and income verified successfully.",
+      "manager": "Manager Rodriguez"
+    },
+    {
+      "id": 10,
+      "category": "Expense validation",
+      "topic": "training expenses",
+      "date": "2023-10-10 10:30:00",
+      "status": "Approval denied",
+      "reason": "Training expenses not aligned with company policy.",
+      "manager": "Manager Nguyen"
+    },
+    {
+      "id": 11,
+      "category": "Income eligibility",
+      "topic": "investment income",
+      "date": "2023-11-05 09:15:00",
+      "status": "Approval pending",
+      "reason": "Additional documentation required for verification.",
+      "manager": "Manager Hernandez"
+    },
+    {
+      "id": 12,
+      "category": "Expense validation",
+      "topic": "travel expenses",
+      "date": "2023-12-20 14:20:00",
+      "status": "Approved",
+      "reason": "Travel expenses within approved budget limits.",
+      "manager": "Manager Kim"
+    },
+    {
+      "id": 13,
+      "category": "Income eligibility",
+      "topic": "personal expertise",
+      "date": "2024-01-08 11:45:00",
+      "status": "Approval denied",
+      "reason": "Personal expertise not meeting eligibility criteria.",
+      "manager": "Manager Lee"
+    },
+    {
+      "id": 14,
+      "category": "Expense validation",
+      "topic": "budgeting",
+      "date": "2024-02-15 09:30:00",
+      "status": "Approval pending",
+      "reason": "Further review required on budget allocations.",
+      "manager": "Manager Smith"
+    },
+    {
+      "id": 15,
+      "category": "Income verification",
+      "topic": "salary documentation",
+      "date": "2024-03-12 13:00:00",
+      "status": "Approved",
+      "reason": "Salary documents verified successfully.",
+      "manager": "Manager Brown"
+    },
+    {
+      "id": 16,
+      "category": "Expense validation",
+      "topic": "travel expenses",
+      "date": "2024-04-28 10:45:00",
+      "status": "Approval denied",
+      "reason": "Travel expenses not in compliance with policy.",
+      "manager": "Manager Wilson"
+    },
+    {
+      "id": 17,
+      "category": "Income eligibility",
+      "topic": "investment income",
+      "date": "2024-05-05 08:30:00",
+      "status": "Approval pending",
+      "reason": "Additional documentation required for verification.",
+      "manager": "Manager Taylor"
+    },
+    {
+      "id": 18,
+      "category": "Expense validation",
+      "topic": "equipment purchase",
+      "date": "2024-06-15 11:15:00",
+      "status": "Approved",
+      "reason": "Purchase request approved within allocated budget.",
+      "manager": "Manager Martinez"
+    },
+    {
+      "id": 19,
+      "category": "Income eligibility",
+      "topic": "investment portfolio",
+      "date": "2024-07-22 14:50:00",
+      "status": "Approval denied",
+      "reason": "Insufficient evidence of investment portfolio.",
+      "manager": "Manager Garcia"
+    },
+    {
+      "id": 20,
+      "category": "Expense validation",
+      "topic": "office supplies",
+      "date": "2024-08-09 12:00:00",
+      "status": "Approval pending",
+      "reason": "Pending review of supplier quotations.",
+      "manager": "Manager Rodriguez"
+    },
+    {
+      "id": 21,
+      "category": "Income verification",
+      "topic": "rental income",
+      "date": "2024-09-03 10:10:00",
+      "status": "Approved",
+      "reason": "Rental agreement and income verified successfully.",
+      "manager": "Manager Nguyen"
+    },
+    {
+      "id": 22,
+      "category": "Expense validation",
+      "topic": "training expenses",
+      "date": "2024-10-20 13:20:00",
+      "status": "Approval denied",
+      "reason": "Training expenses exceed budget allocations.",
+      "manager": "Manager Hernandez"
+    },
+    {
+      "id": 23,
+      "category": "Income eligibility",
+      "topic": "investment income",
+      "date": "2024-11-15 08:40:00",
+      "status": "Approval pending",
+      "reason": "Additional documentation required for verification.",
+      "manager": "Manager Kim"
+    },
+    {
+      "id": 24,
+      "category": "Expense validation",
+      "topic": "travel expenses",
+      "date": "2024-12-30 09:25:00",
+      "status": "Approved",
+      "reason": "Travel expenses within budget limits.",
+      "manager": "Manager Lee"
+    },
+    {
+      "id": 25,
+      "category": "Income eligibility",
+      "topic": "personal expertise",
+      "date": "2025-01-18 10:00:00",
+      "status": "Approval denied",
+      "reason": "Insufficient expertise for eligibility.",
+      "manager": "Manager Smith"
+    },
+    {
+      "id": 26,
+      "category": "Expense validation",
+      "topic": "budgeting",
+      "date": "2025-02-12 11:45:00",
+      "status": "Approval pending",
+      "reason": "Budget allocations under review.",
+      "manager": "Manager Brown"
+    },
+    {
+      "id": 27,
+      "category": "Income verification",
+      "topic": "salary documentation",
+      "date": "2025-03-25 14:30:00",
+      "status": "Approved",
+      "reason": "Salary documents verified successfully.",
+      "manager": "Manager Wilson"
+    },
+    {
+      "id": 28,
+      "category": "Expense validation",
+      "topic": "travel expenses",
+      "date": "2025-04-10 10:15:00",
+      "status": "Approval denied",
+      "reason": "Travel expenses exceeded approved limits.",
+      "manager": "Manager Taylor"
+    },
+    {
+      "id": 29,
+      "category": "Income eligibility",
+      "topic": "investment income",
+      "date": "2025-05-08 09:30:00",
+      "status": "Approval pending",
+      "reason": "Additional documentation required for verification.",
+      "manager": "Manager Martinez"
+    },
+    {
+      "id": 30,
+      "category": "Expense validation",
+      "topic": "equipment purchase",
+      "date": "2025-06-20 14:00:00",
+      "status": "Approved",
+      "reason": "Purchase request approved within allocated budget.",
+      "manager": "Manager Garcia"
+    }
+  ]
+  
