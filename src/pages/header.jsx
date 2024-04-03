@@ -7,7 +7,7 @@ import {
   FormControl,
 } from "@mui/material";
 import Table from "./table";
-import Pagination from "./Pagination";
+import Pagination from "./footer";
 import Enrobrn from "./enrolBtn";
 
 const Component1 = ({ dropBtn}) => {
@@ -238,7 +238,7 @@ const Component1 = ({ dropBtn}) => {
                   <img
                     width="11.2px"
                     height="6.6px"
-                    src="/format-converter.svg"
+                    src="/vector-3.svg"
                     style={{ marginRight: "11.89999999999991px" }}
                   />
                 )}
@@ -310,7 +310,7 @@ const Component1 = ({ dropBtn}) => {
                   <img
                     width="11.2px"
                     height="6.6px"
-                    src="/vector-2.svg"
+                    src="/vector-3.svg"
                     style={{ marginRight: "11.89999999999991px" }}
                   />
                 )}

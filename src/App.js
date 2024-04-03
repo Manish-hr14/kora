@@ -5,7 +5,7 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Component1 from "./pages/navbar";
+import Component1 from "./pages/header";
 import Enrobrn from "./pages/enrolBtn";
 import Drop from "./pages/Dropdownbtn";
 import Table from "./pages/table";

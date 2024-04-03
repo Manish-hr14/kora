@@ -84,7 +84,7 @@ function YourComponent() {
           <img
             width="11.2px"
             height="6.6px"
-            src="/vector-1.svg"
+            src="/vector-3.svg"
             style={{ marginRight: "11.89999999999991px" }}
           />
         )}
